@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["footer","document","querySelector","innerHTML","ProyectoFinal"],"mappings":";;AAAA,IAAIA,SAAOC,SAASC,aAAT,CAAuB,SAAvB,CAAX;AACAF,OAAOG,SAAP,GAAkBC,cAAcJ,MAAd,EAAlB","file":"main.js","sourcesContent":["var footer=document.querySelector(\"#footer\");\nfooter.innerHTML= ProyectoFinal.footer();"]}
